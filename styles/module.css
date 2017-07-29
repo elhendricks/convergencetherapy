@@ -1,0 +1,19 @@
+.schedule-cta {
+    color: white; 
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
+
+a {
+    color: #444;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.hero-img {
+    position: relative;
+}
